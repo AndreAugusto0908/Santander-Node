@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "D": "^1.0.0",
+    "dotenv": "^16.4.7",
     "typescript": "^5.7.2"
   },
   "devDependencies": {
