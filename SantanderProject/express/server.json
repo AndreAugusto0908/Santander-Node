@@ -1,0 +1,25 @@
+{
+    "users":[
+        {
+            "id": "58ab435c-e2ff-4da3-a382-50d64dc620eb",
+            "name": "Fulano",
+            "age": 15
+        },
+        {
+            "id": "b2877384-8c4a-420d-910e-cea08798d954",
+            "name": "Ciclano",
+            "age": 16
+        },
+        {
+            "id": "7cb346bc-7b06-4d18-873a-7a491b3e425f",
+            "name": "dede",
+            "age": 18
+        },
+        {
+            "id": "a5036b14-7fee-4674-85cb-ebb6ee156675",
+            "name": "Ana",
+            "age": 19
+        }
+    ]
+
+}
